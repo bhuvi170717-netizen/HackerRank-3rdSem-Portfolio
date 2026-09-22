@@ -233,7 +233,7 @@ HackerRank-3rdSem-Portfolio/
 
 ## 📌 Status
 
-**Activity 8:** Completed / In Progress
+**Activity 8:** Completed
 
 **Problems:** 5/5
 **Language:** C++

@@ -147,11 +147,11 @@ Screenshots of successful HackerRank submissions are stored in the [`screenshots
 
 | Problem              | Evidence                                                |
 | -------------------- | ------------------------------------------------------- |
-| Diagonal Difference  | [View Screenshot](screenshots/diagonal-difference.png)  |
-| Dynamic Array        | [View Screenshot](screenshots/dynamic-array.png)        |
-| Time Conversion      | [View Screenshot](screenshots/time-conversion.png)      |
-| Compare the Triplets | [View Screenshot](screenshots/compare-the-triplets.png) |
-| Sparse Arrays        | [View Screenshot](screenshots/sparse-arrays.png)        |
+| Diagonal Difference  | [View Screenshot](Screenshots/diagonal-difference.png)  |
+| Dynamic Array        | [View Screenshot](Screenshots/dynamic-array.png)        |
+| Time Conversion      | [View Screenshot](Screenshots/time-conversion.png)      |
+| Compare the Triplets | [View Screenshot](Screenshots/compare-the-triplets.png) |
+| Sparse Arrays        | [View Screenshot](Screenshots/sparse-arrays.png)        |
 
 ---
 

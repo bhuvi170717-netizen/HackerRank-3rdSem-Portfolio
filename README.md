@@ -29,11 +29,11 @@ This activity focuses on:
 
 | # | Problem                                          | Topic                     | Time Complexity | Space Complexity | Status     |
 | - | ------------------------------------------------ | ------------------------- | --------------- | ---------------- | ---------- |
-| 1 | [Diagonal Difference](01-Diagonal-Difference/)   | 2D Arrays / Matrices      | O(N)            | O(1)             | ✅ Accepted |
-| 2 | [Dynamic Array](02-Dynamic-Array/)               | Data Structures / Vectors | O(Q)            | O(N + Q)         | ✅ Accepted |
-| 3 | [Time Conversion](03-Time-Conversion/)           | Strings & Logic           | O(1)            | O(1)             | ✅ Accepted |
-| 4 | [Compare the Triplets](04-Compare-the-Triplets/) | Basic Implementation      | O(1)            | O(1)             | ✅ Accepted |
-| 5 | [Sparse Arrays](05-Sparse-Arrays/)               | Hash Maps / Strings       | O(N + Q)        | O(N)             | ✅ Accepted |
+| 1 | [Diagonal Difference](Diagonal-Difference/)   | 2D Arrays / Matrices      | O(N)            | O(1)             | ✅ Accepted |
+| 2 | [Dynamic Array](Dynamic-Array/)               | Data Structures / Vectors | O(Q)            | O(N + Q)         | ✅ Accepted |
+| 3 | [Time Conversion](Time-Conversion/)           | Strings & Logic           | O(1)            | O(1)             | ✅ Accepted |
+| 4 | [Compare the Triplets](Compare-the-Triplets/) | Basic Implementation      | O(1)            | O(1)             | ✅ Accepted |
+| 5 | [Sparse Arrays](Sparse-Arrays/)               | Hash Maps / Strings       | O(N + Q)        | O(N)             | ✅ Accepted |
 
 ---
 
@@ -57,7 +57,7 @@ The absolute difference between the two sums is returned.
 * Time: `O(N)`
 * Auxiliary Space: `O(1)`
 
-[View Solution →](01-Diagonal-Difference/solution.cpp)
+[View Solution →](Diagonal-Difference/solution.cpp)
 
 ---
 
@@ -78,7 +78,7 @@ Type 1 queries append values, while Type 2 queries retrieve an element and updat
 * Time: `O(Q)` average/amortized for processing the queries
 * Space: `O(N + Q)` in the worst case
 
-[View Solution →](02-Dynamic-Array/solution.cpp)
+[View Solution →](Dynamic-Array/solution.cpp)
 
 ---
 
@@ -93,7 +93,7 @@ The solution extracts the hour and AM/PM indicator and handles the special cases
 * Time: `O(1)`
 * Space: `O(1)`
 
-[View Solution →](03-Time-Conversion/solution.cpp)
+[View Solution →](Time-Conversion/solution.cpp)
 
 ---
 
@@ -108,7 +108,7 @@ Each of the three corresponding scores is compared. A point is awarded to Alice 
 * Time: `O(1)`
 * Space: `O(1)`
 
-[View Solution →](04-Compare-the-Triplets/solution.cpp)
+[View Solution →](Compare-the-Triplets/solution.cpp)
 
 ---
 
@@ -123,7 +123,7 @@ An `unordered_map` stores the frequency of every string in the input list. Each 
 * Time: `O(N + Q)` average case
 * Space: `O(N)`
 
-[View Solution →](05-Sparse-Arrays/solution.cpp)
+[View Solution →](Sparse-Arrays/solution.cpp)
 
 ---
 

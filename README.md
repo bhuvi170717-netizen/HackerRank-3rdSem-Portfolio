@@ -21,7 +21,7 @@ This activity focuses on:
 
 ## 👨‍💻 HackerRank Profile
 
-**HackerRank:** [View My HackerRank Profile](YOUR_HACKERRANK_PROFILE_URL)
+**HackerRank:** [View My HackerRank Profile](https://www.hackerrank.com/bhuvi170717)
 
 ---
 
@@ -226,8 +226,8 @@ HackerRank-3rdSem-Portfolio/
 
 ## 🔗 Links
 
-* **HackerRank:** [My HackerRank Profile](YOUR_HACKERRANK_PROFILE_URL)
-* **GitHub Repository:** [HackerRank-3rdSem-Portfolio](YOUR_GITHUB_REPOSITORY_URL)
+* **HackerRank:** [My HackerRank Profile](https://www.hackerrank.com/bhuvi170717)
+* **GitHub Repository:** [HackerRank-3rdSem-Portfolio](https://github.com/bhuvi170717-netizen/HackerRank-3rdSem-Portfolio)
 
 ---
 
